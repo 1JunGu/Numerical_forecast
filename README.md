@@ -1,6 +1,6 @@
-# 2019 Autumn Numerical prediction and Numerical model method(Pro.Zhou Renjun)  
+# 2019 Autumn Numerical prediction and Numerical model method(Prof .Zhou Renjun)  
 ----------
 **requirements:**    
-Fortran(include netCDF libiriary) and NCL(v6.4.0)  
-***
+Fortran and related compilers (include NetCDF libiriary) and NCL(v6.4.0 or higher)  
+
 
